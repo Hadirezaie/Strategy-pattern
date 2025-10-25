@@ -16,7 +16,3 @@ public abstract class Duck {
         System.out.println("I'm flying!");
     }
 }
-
-// Problem: For every small change in behavior, we have to create a new subclass
-// and if we want to change the fly behavior for all ducks, it becomes
-// problematic
