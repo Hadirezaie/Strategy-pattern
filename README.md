@@ -53,8 +53,8 @@ Notes:
 - Sharing strategies: strategy objects are stateless so you can share instances among ducks if desired.
 - Evolution: if you add new behavior types (e.g., `DisplayBehavior`), follow the same pattern — define an interface and inject implementations.
 
-## Next steps (optional)
+<!-- ## Next steps (optional)
 - Add a top-level example output in the README showing expected console lines from `DuckSimulator`.
 - Add unit tests that assert behavior outputs or better, extract behavior into testable return values (instead of printing).
 
-If you want, I can add the example output and small unit tests for the `strategy` package next — tell me which you'd prefer.
+If you want, I can add the example output and small unit tests for the `strategy` package next — tell me which you'd prefer. -->
